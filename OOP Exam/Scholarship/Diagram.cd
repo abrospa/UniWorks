@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scholarship.MapSite" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MapSite\MapSite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scholarship.Wall" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MapSite\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scholarship.Door" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAIAAAAAAAAAAAAACAABAA=</HashCode>
+      <FileName>MapSite\Door.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="room2" />
+      <Field Name="room1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Scholarship.Room" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>MapSite\Room.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="sides" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

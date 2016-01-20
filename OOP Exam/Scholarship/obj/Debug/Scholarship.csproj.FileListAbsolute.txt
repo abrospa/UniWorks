@@ -1,0 +1,9 @@
+c:\users\александр\documents\visual studio 2015\Projects\CreationalPatterns\Scholarship\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CreationalPatterns\Scholarship\Scholarship\bin\Debug\Scholarship.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CreationalPatterns\Scholarship\Scholarship\bin\Debug\Scholarship.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CreationalPatterns\Scholarship\Scholarship\obj\Debug\Scholarship.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CreationalPatterns\Scholarship\Scholarship\obj\Debug\Scholarship.exe
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\CreationalPatterns\Scholarship\Scholarship\obj\Debug\Scholarship.pdb
+C:\Users\Александр\Documents\Институт\2 курс\Объектно-ориентированное программирование\Экзамен\Scholarship\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Users\Александр\Documents\Институт\2 курс\Объектно-ориентированное программирование\Экзамен\Scholarship\Scholarship\obj\Debug\Scholarship.exe
+C:\Users\Александр\Documents\Институт\2 курс\Объектно-ориентированное программирование\Экзамен\Scholarship\Scholarship\obj\Debug\Scholarship.pdb
