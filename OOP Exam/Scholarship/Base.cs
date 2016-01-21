@@ -1,25 +1,29 @@
-﻿namespace Scholarship
+﻿using System.Collections.Generic;
+
+namespace Scholarship
 {
     class Base
     {
         static public Room CreateRoom(int roomNumber, bool isOpen)
         {
-            Room room = new Room(roomNumber);
+            List<MapSite> sides = new List<MapSite>(4);
 
             Door door = new Door(isOpen);
-            door.SetRooms(room, new Room(2));
-            room.AddSide(door);
+            sides.Add(door);
 
             MapSite wall1 = new Wall();
-            room.AddSide(wall1);
+            sides.Add(wall1);
 
             MapSite wall2 = new Wall();
-            room.AddSide(wall2);
+            sides.Add(wall2);
 
             MapSite wall3 = new Wall();
-            room.AddSide(wall3);
+            sides.Add(wall3);
 
-            return room;
+            if (sides.Count == 4)
+                return new Room(roomNumber, sides);
+            else
+                return null;
         }
     }
 }

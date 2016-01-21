@@ -9,7 +9,10 @@ namespace Scholarship
             Controller controller = Controller.GetInstance();
             MapSite room = controller.CreateRoom(1, false);
 
-            Console.WriteLine("Комната создана.");
+            if (room != null)
+                Console.WriteLine("Комната создана.");
+            else
+                Console.WriteLine("Комната не создана.");
             Console.ReadKey();
         }
     }

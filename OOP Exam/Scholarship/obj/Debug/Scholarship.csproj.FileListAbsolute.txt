@@ -7,3 +7,9 @@ C:\Users\Александр\Documents\Visual Studio 2015\Projects\CreationalPatt
 C:\Users\Александр\Documents\Институт\2 курс\Объектно-ориентированное программирование\Экзамен\Scholarship\Scholarship\bin\Debug\Scholarship.exe.config
 C:\Users\Александр\Documents\Институт\2 курс\Объектно-ориентированное программирование\Экзамен\Scholarship\Scholarship\obj\Debug\Scholarship.exe
 C:\Users\Александр\Documents\Институт\2 курс\Объектно-ориентированное программирование\Экзамен\Scholarship\Scholarship\obj\Debug\Scholarship.pdb
+C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\obj\Debug\Scholarship.exe
+C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\obj\Debug\Scholarship.pdb
+C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\bin\Debug\Scholarship.exe
+C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\bin\Debug\Scholarship.pdb
+C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\obj\Debug\Scholarship.csprojResolveAssemblyReference.cache
