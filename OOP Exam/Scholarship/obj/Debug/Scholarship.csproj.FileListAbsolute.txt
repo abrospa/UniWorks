@@ -13,3 +13,6 @@ C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Sc
 C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\bin\Debug\Scholarship.exe
 C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\bin\Debug\Scholarship.pdb
 C:\Users\Александр\Documents\Институт\2 курс\Scholarship\Scholarship\obj\Debug\Scholarship.csprojResolveAssemblyReference.cache
+E:\GitHub\UniWorks\OOP Exam\Scholarship\bin\Debug\Scholarship.exe.config
+E:\GitHub\UniWorks\OOP Exam\Scholarship\obj\Debug\Scholarship.exe
+E:\GitHub\UniWorks\OOP Exam\Scholarship\obj\Debug\Scholarship.pdb
